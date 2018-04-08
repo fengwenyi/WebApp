@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebAppLib</string>
+    <string name="app_lib_loading">正在载入</string>
+    <string name="app_lib_error_net">网络已断开</string>
+</resources>
